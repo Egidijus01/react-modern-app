@@ -1,8 +1,3 @@
-# React + Vite
+# Modern Static Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a contemporary static website created as a coding exercise. It serves as a hands-on opportunity to develop coding skills while applying modern web development technologies. The website is designed from scratch using React for dynamic components and Tailwind CSS for a sleek, responsive design. It showcases the fusion of design and coding, offering an ideal platform for practice and learning.
